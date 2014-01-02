@@ -16,7 +16,7 @@ There is a data-vector and "buckets" vector, where each "bucket" is a vector too
 
 Dependencies:
 - google test v.1.7.0 (https://code.google.com/p/googletest/downloads/detail?name=gtest-1.7.0.zip)
-- My VectorService library (repo: https://bitbucket.org/aleks_tar/vectorservice)
+- My VectorService library (repo: https://github.com/alekstar/VectorService)
 
 Author of code: Aleksandr Tarasenko <inet.tarasenko@gmail.com>
-Repository URL: https://bitbucket.org/aleks_tar/vectorbucketsort
+Repository URL: https://github.com/alekstar/VectorBucketSort
