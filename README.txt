@@ -20,3 +20,4 @@ Dependencies:
 
 Author of code: Aleksandr Tarasenko <inet.tarasenko@gmail.com>
 Repository URL: https://github.com/alekstar/VectorBucketSort
+Repository URL in Bitbucket (Mercurial): https://bitbucket.org/aleks_tar/vectorbucketsort
